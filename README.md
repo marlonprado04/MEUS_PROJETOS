@@ -14,6 +14,7 @@ Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim c
 
 - [ ] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
 - [ ] __Aplicativo de Conversão de Unidades:__ Construa um aplicativo para converter unidades de medida, como temperatura e peso.
+- [ ] __Calculadora de ingredientes__: Construa uma calculadora que converte proporções de ingredientes de uma receita de forma dinâmica
 - [ ] __Aplicativo de Clima:__ Consuma dados de uma API de previsão do tempo para exibir informações sobre o clima atual e a previsão.
 - [ ] __Aplicativo de Anotações:__ Desenvolva um aplicativo de anotações onde os usuários possam criar, salvar e organizar suas notas. Isso pode ajudar a aprimorar suas habilidades em armazenamento local, gerenciamento de listas e interfaces de usuário.
 - [ ] __To-Do List App:__ Crie um aplicativo de lista de tarefas para aprender sobre o React Native, gerenciamento de estado e manipulação de eventos.
