@@ -8,13 +8,9 @@ Esse repositório foi criado apenas como ideia de agrupar a referência de onde 
 
 Construí esse repositório com ajuda do ChatGPT e a conversa pode ser acessada [neste link](https://chat.openai.com/share/e3eaa285-5bae-4f31-91ed-5f4519bfc947).
 
-## Lista de projetos
+## Lista de projetos (para desenvolver)
 
 Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim construir projetos mais elaborados como o Markdown editor:
-
-- [x] __Web Scraping TBATE:__ Web scraping em Python da Light Novel "The Beginning After The End".
-- [x] __Biblioteca com JSP:__ CRUD com JSP, HTML, CSS e Bootstrap.
-- [x] __Pokedex:__ Pokedex com API Rest, JavaScript, HTML e CSS.
 
 - [ ] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
 - [ ] __Aplicativo de Conversão de Unidades:__ Construa um aplicativo para converter unidades de medida, como temperatura e peso.
@@ -26,3 +22,9 @@ Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim c
 - [ ] __Blog Pessoal:__ Construa um blog pessoal onde você possa criar, editar e excluir postagens. Isso ajudará você a aprender sobre CRUD (Create, Read, Update, Delete), autenticação de usuário e gerenciamento de rotas com React Router.
 - [ ] __Projeto de Portfólio:__ Se você ainda não possui um site de portfólio pessoal, criar um é uma ótima maneira de mostrar seus projetos anteriores e suas habilidades. Use HTML, CSS e, se desejar, uma biblioteca como o React para construí-lo.
 - [ ] __Jogo Simples:__ Crie um jogo simples, como um quebra-cabeça deslizante, jogo da velha ou jogo da memória. Isso ajudará você a entender melhor como manipular a lógica do jogo e a interação com o usuário.
+
+## Lista de projetos (em andamento)
+
+- [x] __Web Scraping TBATE:__ Web scraping em Python da Light Novel "The Beginning After The End".
+- [x] __Biblioteca com JSP:__ CRUD com JSP, HTML, CSS e Bootstrap.
+- [x] __Pokedex:__ Pokedex com API Rest, JavaScript, HTML e CSS.
