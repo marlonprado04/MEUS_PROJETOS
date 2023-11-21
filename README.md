@@ -12,7 +12,7 @@ Construí esse repositório com ajuda do ChatGPT e a conversa pode ser acessada 
 
 Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim construir projetos mais elaborados como o Markdown editor:
 
-- [ ] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
+- [x] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
 - [ ] __Aplicativo de Conversão de Unidades:__ Construa um aplicativo para converter unidades de medida, como temperatura e peso.
 - [ ] __Calculadora de ingredientes__: Construa uma calculadora que converte proporções de ingredientes de uma receita de forma dinâmica
 - [ ] __Aplicativo de Clima:__ Consuma dados de uma API de previsão do tempo para exibir informações sobre o clima atual e a previsão.
