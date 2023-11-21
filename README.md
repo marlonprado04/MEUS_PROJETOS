@@ -12,7 +12,6 @@ Construí esse repositório com ajuda do ChatGPT e a conversa pode ser acessada 
 
 Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim construir projetos mais elaborados como o Markdown editor:
 
-- [x] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
 - [ ] __Aplicativo de Conversão de Unidades:__ Construa um aplicativo para converter unidades de medida, como temperatura e peso.
 - [ ] __Calculadora de ingredientes__: Construa uma calculadora que converte proporções de ingredientes de uma receita de forma dinâmica
 - [ ] __Aplicativo de Clima:__ Consuma dados de uma API de previsão do tempo para exibir informações sobre o clima atual e a previsão.
@@ -24,8 +23,9 @@ Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim c
 - [ ] __Projeto de Portfólio:__ Se você ainda não possui um site de portfólio pessoal, criar um é uma ótima maneira de mostrar seus projetos anteriores e suas habilidades. Use HTML, CSS e, se desejar, uma biblioteca como o React para construí-lo.
 - [ ] __Jogo Simples:__ Crie um jogo simples, como um quebra-cabeça deslizante, jogo da velha ou jogo da memória. Isso ajudará você a entender melhor como manipular a lógica do jogo e a interação com o usuário.
 
-## Lista de projetos (em andamento)
+## Lista de projetos (em andamento ou finalizados)
 
 - [x] __Web Scraping TBATE:__ Web scraping em Python da Light Novel "The Beginning After The End".
 - [x] __Biblioteca com JSP:__ CRUD com JSP, HTML, CSS e Bootstrap.
 - [x] __Pokedex:__ Pokedex com API Rest, JavaScript, HTML e CSS.
+- [x] __Calculadora:__ Crie uma calculadora simples para praticar manipulação de eventos e estados em JavaScript.
