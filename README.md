@@ -22,6 +22,34 @@ Abaixo a lista de projetos para desenvolver a fim de me aperfeiçoar e por fim c
 - [ ] __Projeto de Portfólio:__ Se você ainda não possui um site de portfólio pessoal, criar um é uma ótima maneira de mostrar seus projetos anteriores e suas habilidades. Use HTML, CSS e, se desejar, uma biblioteca como o React para construí-lo.
 - [ ] __Jogo Simples:__ Crie um jogo simples, como um quebra-cabeça deslizante, jogo da velha ou jogo da memória. Isso ajudará você a entender melhor como manipular a lógica do jogo e a interação com o usuário.
 
+## Anotações soltas (passar a limpo)
+
+
+1. ERP simples que eu vou aprimorando
+	* CRUD e relação entre 
+		* Clientes
+		* Produtos
+		* Vendedores
+		* O que vou aprender / exercitar: estrutura de dados / padrão arquitetural / resolução de problemas reais 
+
+2. Gerador de: 
+	- CEP
+	- CPF
+	- CNPJ
+	- O que vou aprender / exercitar: algoritmos (cálculos matemáticos de validação)
+
+3. Landing page simples como portfólio 
+    - Ter guia sobre mim com acesso as redes
+    - Ter guia de projetos
+    - Ter formulário de contato
+    - O que vou aprender / exercitar: frontend + marketing pessoal / projeto real + hospedagem de site
+
+4. App de tarefas para Android com Kotlin (similar ao TickTick, porém que sincronize com o calendário da forma que eu desejar entre outras funções que me agradarem)
+
+5. Copiar sites interessantes que eu sinta capaz de replicar (em layout de componentes e funções)
+    1. Ex: https://www.kalunga.com.br/
+    2. Posso criar tudo isso com Angular e PHP no backend se quiser, ou focar em Java Spring / Node no backend
+  
 ## Lista de projetos (em andamento ou finalizados)
 
 - [x] __Web Scraping TBATE:__ Web scraping em Python da Light Novel "The Beginning After The End".
